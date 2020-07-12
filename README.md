@@ -1,6 +1,6 @@
 # Marlin 2.0.x Bugfix for SKR 1.3 TMC2208 EZABL CR-10
 
-This is my personal build of Marlin 2.0.x bugfix running on an SKR 1.3 with TMC2208 drivers in UART on the Crealityh CR-10. My setup also uses an ABL (TH3D EXABL for now) and V6 Hotend Type 5 Thermistor. 
+This is my personal build of Marlin 2.0.x bugfix running on an SKR 1.3 with TMC2208 drivers in UART on the Creality CR-10. My setup also uses an ABL (TH3D EXABL for now) and V6 Hotend Type 5 Thermistor. 
 Use at your own risk. 
 
 # Marlin 3D Printer Firmware
