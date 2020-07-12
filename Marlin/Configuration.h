@@ -490,9 +490,9 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Ultimaker
-  #define DEFAULT_Kp 30.14
-  #define DEFAULT_Ki 2.46
-  #define DEFAULT_Kd 92.21
+  #define DEFAULT_Kp 20.22
+  #define DEFAULT_Ki 1.22
+  #define DEFAULT_Kd 84.07
 
   // MakerGear
   //#define DEFAULT_Kp 7.0
@@ -980,7 +980,7 @@
  *
  * Specify a Probe position as { X, Y, Z }
  */
-#define NOZZLE_TO_PROBE_OFFSET { -41.5, 0, 0 }
+#define NOZZLE_TO_PROBE_OFFSET { -63, -12, 0 }
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
