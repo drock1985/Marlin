@@ -1,3 +1,11 @@
+# Marlin 2.0.x SKR1.3   CR-10   P.I.N.D.A 2 ABL
+
+This is my build of Marlin 2.0.x for the Creality CR-10 frame. This firmware is compiled for an BigTreeTech SKR1.3 with TMC2209 stepper drivers configured in UART mode. 
+Auto bed leveling (bi-linear) is also enabled and uses the Triangle Labs (https://www.aliexpress.com/item/32967045729.html?spm=a2g0s.9042311.0.0.2ff94c4dO5IYWz) clone
+Prusa P.I.N.D.A 2 probe with G76 (Thermal Probe Compensation) enabled. My probe mount that I use is (   )
+
+WARNING! Use at your own risk. I do not make any guarentees with this firmware compile or what it may do to your hardare. Use at your own risk. 
+____________________________
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
